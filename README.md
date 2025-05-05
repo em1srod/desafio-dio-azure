@@ -15,5 +15,5 @@ Os arquivos de resumo estão organizados na pasta `/resumos` e os prints estão 
 
 ## 👤 Autor(a)
 
-Seu Nome  
-[Seu perfil no GitHub ou LinkedIn]
+Emilly Rodrigues  
+https://www.linkedin.com/in/emilly-rodrigues-po/
