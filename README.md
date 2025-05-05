@@ -1,0 +1,19 @@
+# Guia Prático de Microsoft Azure
+
+Este repositório contém resumos, anotações e dicas sobre o uso da plataforma Microsoft Azure. O conteúdo foi produzido como parte do desafio proposto pela DIO para consolidar os aprendizados adquiridos em aula.
+
+## 📚 Conteúdo
+
+- ✅ Conceitos iniciais sobre a nuvem e o Azure
+- 💻 Passo a passo para criação de uma máquina virtual
+- 🔐 Configurações de rede e segurança
+- 💡 Dicas práticas para uso eficiente da plataforma
+
+## 🗂 Estrutura
+
+Os arquivos de resumo estão organizados na pasta `/resumos` e os prints estão na pasta `/images`.
+
+## 👤 Autor(a)
+
+Seu Nome  
+[Seu perfil no GitHub ou LinkedIn]
