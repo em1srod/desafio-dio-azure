@@ -6,11 +6,13 @@ Este resumo apresenta os fundamentos da computação em nuvem.
 
 ## ☁️ O que é Computação em Nuvem?
 
-A computação em nuvem é o fornecimento de serviços de computação — incluindo servidores, armazenamento, bancos de dados, rede, software, entre outros — pela Internet.  
-Isso proporciona:
-- Inovação mais rápida
-- Recursos flexíveis
-- Economias de escala
+Computação em nuvem (Cloud Computing) é o modelo de fornecimento de recursos de tecnologia — como servidores, armazenamento, redes, bancos de dados, inteligência artificial e software — por meio da internet, sob demanda. 
+
+Isso permite que empresas e usuários:
+- Escalem rapidamente seus serviços
+- Paguem apenas pelo que consomem
+- Evitem investimentos altos em infraestrutura física
+- Acessem seus recursos de qualquer lugar, a qualquer momento
 
 ---
 
@@ -52,6 +54,19 @@ Na nuvem, a responsabilidade é **dividida entre o provedor e o cliente**:
 
 ---
 
+## 🧑‍🤝‍🧑 Modelo de Responsabilidade Compartilhada
+
+Na computação em nuvem, a responsabilidade pela segurança e operação é dividida entre o cliente e o provedor.
+
+- **Cliente**: gerencia dados, identidades, dispositivos e configurações.
+- **Provedor** (como o Azure): cuida da infraestrutura física, data centers, atualizações automáticas e proteção da plataforma.
+
+A divisão de responsabilidade varia conforme o modelo de serviço:  
+- IaaS: mais controle para o cliente  
+- SaaS: mais responsabilidade para o provedor
+
+---
+
 ## 💸 CapEx vs. OpEx
 
 ### 🏗️ CapEx (Despesas de Capital)
@@ -74,4 +89,8 @@ A nuvem opera com **pagamento conforme o uso**:
 
 ---
 
-Esses conceitos são essenciais para compreender a estrutura e os benefícios do Microsoft Azure e outras plataformas de nuvem.
+## 🧠 Conclusão
+
+A computação em nuvem transformou a forma como empresas consomem e gerenciam tecnologia. Ela oferece escalabilidade, flexibilidade, segurança e eficiência operacional — adaptando-se a qualquer tamanho de negócio ou necessidade de TI.
+
+Entender esses conceitos é o primeiro passo para usar o Microsoft Azure de forma estratégica e preparada para certificações como a AZ-900.
