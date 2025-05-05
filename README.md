@@ -8,6 +8,7 @@ Este repositório contém resumos, anotações e dicas sobre o uso da plataforma
 - 💻 Passo a passo para criação de uma máquina virtual
 - 🔐 Configurações de rede e segurança
 - 💡 Dicas práticas para uso eficiente da plataforma
+- 🌥️ Benefícios da utilização da nuvem
 
 ## 🗂 Estrutura
 
