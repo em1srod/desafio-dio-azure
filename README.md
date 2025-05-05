@@ -7,6 +7,7 @@ Este repositório contém resumos, anotações e dicas sobre o uso da plataforma
 - ✅ Conceitos iniciais sobre a nuvem e o Azure
 - 🛠️ Serviços
 - 💻 Passo a passo para criação de uma máquina virtual
+- 🗄️ Configuração de Banco de Dados
 - 🔐 Configurações de rede e segurança
 - 💡 Dicas práticas para uso eficiente da plataforma
 - 🌥️ Benefícios da utilização da nuvem
